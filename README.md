@@ -1,6 +1,6 @@
 # Extended-UI
-A ~~simple~~ menu and config library for the primordial.dev cheat client developed for CS:GO
-There are many issue but no point in fixing them now.
+A ~~simple~~ menu and config library for the primordial.dev cheat client developed for CS:GO.
+> There are many issue but no point in fixing them now.
 
 ## Known Issues
 - Occasional rapid FPS drops in certain scenarios due to table looping
